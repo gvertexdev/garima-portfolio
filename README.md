@@ -19,5 +19,5 @@ Personal portfolio website focused on **Data, AI & Development**.
 
 ## Connect
 
-- [Linkdln](https://www.linkedin.com/in/garimabishtdev/)
+- [Linkedln](https://www.linkedin.com/in/garimabishtdev/)
 - [GitHub](https://github.com/gvertexdev)
